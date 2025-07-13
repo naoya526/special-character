@@ -1,0 +1,36 @@
+{
+  "name": "glowing-text-component",
+  "version": "1.0.0",
+  "description": "A React component that creates glowing text effect based on mouse proximity",
+  "main": "GlowingText.tsx",
+  "types": "GlowingText.d.ts",
+  "files": [
+    "GlowingText.tsx",
+    "GlowingText.d.ts",
+    "README.md"
+  ],
+  "keywords": [
+    "react",
+    "typescript",
+    "component",
+    "glowing",
+    "text",
+    "animation",
+    "gradient",
+    "tailwind",
+    "css"
+  ],
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "@types/react": ">=18.0.0"
+  },
+  "optionalDependencies": {
+    "tailwindcss": ">=3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "your-repository-url"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
