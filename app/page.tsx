@@ -6,7 +6,7 @@ export default function Home() {
       {/* ヘッダー */}
       <div className="text-center mb-12">
         <GlowingText fontSize="4rem" className="mb-4">
-          I'm Naoya Kumakura
+          I&apos;m Naoya Kumakura
         </GlowingText>
         <p className="text-gray-400 text-xl">
           GlowingText Component Exhibition
